@@ -35,7 +35,7 @@
     "tasks"
   ],
   "dependencies": {
-    "appdmg": "^0.4.5",
+    "appdmg": "git+https://github.com/lxAppDev/node-appdmg.git",
     "chalk": "^1.0.0",
     "repeat-string": "^1.5.4"
   },
